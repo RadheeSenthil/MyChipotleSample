@@ -2,4 +2,4 @@
 
 ![Tab Bar Animation](imgs/TabBar_Anim.gif)
 
-![Tab Bar Animation Fullscreen](imgs/TabBar_screen_anim.gif)
+![Tab Bar Animation Fullscreen](imgs/TabBar_screen_anim2.gif)
